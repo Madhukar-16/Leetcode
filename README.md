@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Madhukar-16/Leetcode/tree/master/0148-sort-list) |
 | [0706-design-hashmap](https://github.com/Madhukar-16/Leetcode/tree/master/0706-design-hashmap) |
 ## Design
 |  |
@@ -29,5 +30,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Madhukar-16/Leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Madhukar-16/Leetcode/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Madhukar-16/Leetcode/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Madhukar-16/Leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Madhukar-16/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
