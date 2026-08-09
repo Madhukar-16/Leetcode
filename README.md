@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Madhukar-16/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Madhukar-16/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Madhukar-16/Leetcode/tree/master/0242-valid-anagram) |
 | [0706-design-hashmap](https://github.com/Madhukar-16/Leetcode/tree/master/0706-design-hashmap) |
 ## Linked List
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Madhukar-16/Leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Madhukar-16/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Madhukar-16/Leetcode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Madhukar-16/Leetcode/tree/master/0141-linked-list-cycle) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Madhukar-16/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
