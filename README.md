@@ -57,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Madhukar-16/Leetcode/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/Madhukar-16/Leetcode/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
