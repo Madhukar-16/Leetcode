@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Madhukar-16/Leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Madhukar-16/Leetcode/tree/master/0228-summary-ranges) |
 | [0706-design-hashmap](https://github.com/Madhukar-16/Leetcode/tree/master/0706-design-hashmap) |
+| [1207-unique-number-of-occurrences](https://github.com/Madhukar-16/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Madhukar-16/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Madhukar-16/Leetcode/tree/master/0242-valid-anagram) |
 | [0706-design-hashmap](https://github.com/Madhukar-16/Leetcode/tree/master/0706-design-hashmap) |
+| [1207-unique-number-of-occurrences](https://github.com/Madhukar-16/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## Linked List
 |  |
 | ------- |
