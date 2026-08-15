@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Madhukar-16/Leetcode/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/Madhukar-16/Leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Madhukar-16/Leetcode/tree/master/0228-summary-ranges) |
+| [0283-move-zeroes](https://github.com/Madhukar-16/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Madhukar-16/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0706-design-hashmap](https://github.com/Madhukar-16/Leetcode/tree/master/0706-design-hashmap) |
 | [1207-unique-number-of-occurrences](https://github.com/Madhukar-16/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Madhukar-16/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Madhukar-16/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Madhukar-16/Leetcode/tree/master/0148-sort-list) |
+| [0283-move-zeroes](https://github.com/Madhukar-16/Leetcode/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
