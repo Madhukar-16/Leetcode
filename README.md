@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Madhukar-16/Leetcode/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/Madhukar-16/Leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Madhukar-16/Leetcode/tree/master/0228-summary-ranges) |
 | [0485-max-consecutive-ones](https://github.com/Madhukar-16/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Madhukar-16/Leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Madhukar-16/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Madhukar-16/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Madhukar-16/Leetcode/tree/master/0148-sort-list) |
