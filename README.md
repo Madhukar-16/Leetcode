@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Madhukar-16/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0706-design-hashmap](https://github.com/Madhukar-16/Leetcode/tree/master/0706-design-hashmap) |
 | [1207-unique-number-of-occurrences](https://github.com/Madhukar-16/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Madhukar-16/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Madhukar-16/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Madhukar-16/Leetcode/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/Madhukar-16/Leetcode/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Madhukar-16/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Madhukar-16/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/Madhukar-16/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
