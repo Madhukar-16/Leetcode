@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Madhukar-16/Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Madhukar-16/Leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Madhukar-16/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/Madhukar-16/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Madhukar-16/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Madhukar-16/Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Madhukar-16/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Madhukar-16/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Madhukar-16/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Madhukar-16/Leetcode/tree/master/0141-linked-list-cycle) |
