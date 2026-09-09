@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Madhukar-16/Leetcode/tree/master/0706-design-hashmap) |
 | [1207-unique-number-of-occurrences](https://github.com/Madhukar-16/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Madhukar-16/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2951-find-the-peaks](https://github.com/Madhukar-16/Leetcode/tree/master/2951-find-the-peaks) |
 ## Hash Table
 |  |
 | ------- |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Madhukar-16/Leetcode/tree/master/0050-powx-n) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/Madhukar-16/Leetcode/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
