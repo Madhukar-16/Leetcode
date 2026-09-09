@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Madhukar-16/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Madhukar-16/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Madhukar-16/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Madhukar-16/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -164,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madhukar-16/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Madhukar-16/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
