@@ -1,20 +1,18 @@
 class Solution {
     public int firstUniqChar(String s) {
-        HashMap<Character,Integer>map=new HashMap<>();
-        Queue<Character>q=new LinkedList<>();
-       int n=s.length();
-       for(int i=0;i<n;i++){
-        map.put(s.charAt(i), map.getOrDefault(s.charAt(i), 0) + 1);
-          q.add(s.charAt(i));
-       }
-       int ans=-1;
-       for(int i=0;i<n;i++){
-        char temp=q.remove();
-        if(map.get(temp)==1){
-            ans=i;
-             break;
+
+        HashMap<Character, Integer> count = new HashMap<>();
+
+        for(int i = 0; i < s.length(); i++){
+            char ch = s.charAt(i);
+            count.put(ch, count.getOrDefault(ch, 0) + 1);
         }
-       }
-       return ans; 
+
+        for(int i = 0; i < s.length(); i++){
+            char ch = s.charAt(i);
+            if(count.get(ch) == 1) return i;
+        }
+
+        return -1;
     }
 }
