@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Madhukar-16/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Madhukar-16/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Madhukar-16/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0622-design-circular-queue](https://github.com/Madhukar-16/Leetcode/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/Madhukar-16/Leetcode/tree/master/0706-design-hashmap) |
 | [1207-unique-number-of-occurrences](https://github.com/Madhukar-16/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Madhukar-16/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Madhukar-16/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Madhukar-16/Leetcode/tree/master/0148-sort-list) |
+| [0622-design-circular-queue](https://github.com/Madhukar-16/Leetcode/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/Madhukar-16/Leetcode/tree/master/0706-design-hashmap) |
 ## Design
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Madhukar-16/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Madhukar-16/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Madhukar-16/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Madhukar-16/Leetcode/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/Madhukar-16/Leetcode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
@@ -194,5 +197,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Madhukar-16/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Madhukar-16/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Madhukar-16/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/Madhukar-16/Leetcode/tree/master/0622-design-circular-queue) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Madhukar-16/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
