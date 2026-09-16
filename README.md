@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Madhukar-16/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Madhukar-16/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Madhukar-16/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/Madhukar-16/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Madhukar-16/Leetcode/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/Madhukar-16/Leetcode/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Madhukar-16/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Madhukar-16/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Madhukar-16/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Madhukar-16/Leetcode/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Madhukar-16/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Enumeration
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Madhukar-16/Leetcode/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Madhukar-16/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
