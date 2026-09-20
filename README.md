@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Madhukar-16/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Madhukar-16/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0622-design-circular-queue](https://github.com/Madhukar-16/Leetcode/tree/master/0622-design-circular-queue) |
+| [0704-binary-search](https://github.com/Madhukar-16/Leetcode/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/Madhukar-16/Leetcode/tree/master/0706-design-hashmap) |
 | [1207-unique-number-of-occurrences](https://github.com/Madhukar-16/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Madhukar-16/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Madhukar-16/Leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Madhukar-16/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Madhukar-16/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/Madhukar-16/Leetcode/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
 | ------- |
