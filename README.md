@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Madhukar-16/Leetcode/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/Madhukar-16/Leetcode/tree/master/0706-design-hashmap) |
 | [1207-unique-number-of-occurrences](https://github.com/Madhukar-16/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Madhukar-16/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Madhukar-16/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Madhukar-16/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2951-find-the-peaks](https://github.com/Madhukar-16/Leetcode/tree/master/2951-find-the-peaks) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Madhukar-16/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Madhukar-16/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Madhukar-16/Leetcode/tree/master/0704-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Madhukar-16/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Newton's Method
 |  |
 | ------- |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Madhukar-16/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Madhukar-16/Leetcode/tree/master/0342-power-of-four) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Madhukar-16/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
