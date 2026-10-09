@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Madhukar-16/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Madhukar-16/Leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Madhukar-16/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Madhukar-16/Leetcode/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/Madhukar-16/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Madhukar-16/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Madhukar-16/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Madhukar-16/Leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Madhukar-16/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Madhukar-16/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Madhukar-16/Leetcode/tree/master/0205-isomorphic-strings) |
