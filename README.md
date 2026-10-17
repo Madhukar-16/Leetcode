@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Madhukar-16/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2951-find-the-peaks](https://github.com/Madhukar-16/Leetcode/tree/master/2951-find-the-peaks) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Madhukar-16/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Madhukar-16/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [4062-transform-array-using-pair-operations](https://github.com/Madhukar-16/Leetcode/tree/master/4062-transform-array-using-pair-operations) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Madhukar-16/Leetcode/tree/master/0706-design-hashmap) |
 | [1207-unique-number-of-occurrences](https://github.com/Madhukar-16/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Madhukar-16/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Madhukar-16/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Madhukar-16/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Madhukar-16/Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Madhukar-16/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Madhukar-16/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
