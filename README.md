@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/Madhukar-16/Leetcode/tree/master/2951-find-the-peaks) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Madhukar-16/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Madhukar-16/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Madhukar-16/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4062-transform-array-using-pair-operations](https://github.com/Madhukar-16/Leetcode/tree/master/4062-transform-array-using-pair-operations) |
 ## Hash Table
 |  |
