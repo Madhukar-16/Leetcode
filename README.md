@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/Madhukar-16/Leetcode/tree/master/2951-find-the-peaks) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Madhukar-16/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Madhukar-16/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Madhukar-16/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Madhukar-16/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4062-transform-array-using-pair-operations](https://github.com/Madhukar-16/Leetcode/tree/master/4062-transform-array-using-pair-operations) |
 ## Hash Table
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Madhukar-16/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Madhukar-16/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Madhukar-16/Leetcode/tree/master/0342-power-of-four) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Madhukar-16/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Matrix
 |  |
 | ------- |
