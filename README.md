@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Madhukar-16/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Madhukar-16/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Madhukar-16/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/Madhukar-16/Leetcode/tree/master/2409-count-days-spent-together) |
 ## Math
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Madhukar-16/Leetcode/tree/master/0509-fibonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Madhukar-16/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Madhukar-16/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2409-count-days-spent-together](https://github.com/Madhukar-16/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3871-count-commas-in-range-ii](https://github.com/Madhukar-16/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Binary Search
 |  |
