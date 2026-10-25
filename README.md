@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Madhukar-16/Leetcode/tree/master/0706-design-hashmap) |
 | [0867-transpose-matrix](https://github.com/Madhukar-16/Leetcode/tree/master/0867-transpose-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/Madhukar-16/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1254-number-of-closed-islands](https://github.com/Madhukar-16/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Madhukar-16/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Madhukar-16/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/Madhukar-16/Leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Madhukar-16/Leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Madhukar-16/Leetcode/tree/master/0867-transpose-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Madhukar-16/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Madhukar-16/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Madhukar-16/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Tree
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Madhukar-16/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Madhukar-16/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Madhukar-16/Leetcode/tree/master/0226-invert-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Madhukar-16/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -316,9 +319,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Madhukar-16/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Madhukar-16/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Madhukar-16/Leetcode/tree/master/0226-invert-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Madhukar-16/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Madhukar-16/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Madhukar-16/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
