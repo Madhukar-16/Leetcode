@@ -6,7 +6,7 @@ class Solution {
         rows = grid.length;
         cols = grid[0].length;
 
-        // Remove all land connected to the boundary.
+        
         for (int r = 0; r < rows; r++) {
             dfs(grid, r, 0);
             dfs(grid, r, cols - 1);
@@ -16,7 +16,6 @@ class Solution {
             dfs(grid, rows - 1, c);
         }
 
-        // Count the remaining land groups.
         int count = 0;
         for (int r = 1; r < rows - 1; r++) {
             for (int c = 1; c < cols - 1; c++) {
